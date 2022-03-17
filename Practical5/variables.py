@@ -9,3 +9,9 @@ f=e/b #rate	of	new	cases in 2021
 g=d/c #rate	of	new	cases in 2020
 if f>g: print ("rate of new cases in 2021 is greater")
 if f<g: print ("rate of new cases in 2020 is greater")
+
+  
+x=input() #bool
+y=input()
+w=bool(x and y)
+print (w)
