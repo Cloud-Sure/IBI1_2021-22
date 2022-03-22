@@ -1,1 +1,2 @@
 For me, this Practical4 doesn't go very well, especially the command "git push" which makes me very confused.
+And the vpn makes me very confused, either. since I can't visit sever and github at the same time.
