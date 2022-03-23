@@ -1,3 +1,5 @@
+#首先，需要先识别mRNA中的翻译起始位点，即AUG,然后从该位置，根据标准遗传密码表，将整个mRNA序列翻译成蛋白质，如果中途遇到终止密码子，则显示Stop.
+
 import re
 def mRNA_protein(RNA_string):
     '''将mRNA翻译成蛋白质'''
