@@ -18,4 +18,7 @@ plt.show()
 
 d1= dict(zip(paternal_age,chd)) #Merge two lists into one dictionary
 
-d1[x] #Replace the x in brackets with the paternal_age given
+print('Please enter the given pateral age')
+x=int(input()) #Enter the given pateral age
+
+d1[x] 
