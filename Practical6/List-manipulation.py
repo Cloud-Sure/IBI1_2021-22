@@ -13,7 +13,9 @@ plt.title('marks',fontsize=20)
 #box_1=data['marks']
 
 plt.boxplot(marks)
-
+plt.xlabel("subjects")
+plt.ylabel("marks")
+plt.title("distribution of marks")
 plt.show()
 
 a=sum (marks)/len(marks)
