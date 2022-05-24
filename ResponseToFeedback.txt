@@ -1,0 +1,2 @@
+The comment for n is refined in pizza_party.py in week5.（n is the initial number of cuts, which will then be added up as the while cycles）
+For week6 add lables.
