@@ -1,0 +1,7 @@
+print("How much money do you have")
+x=input()
+print("What's the unit price of a bar of chocolate")
+y=input()
+a=int(x)//int(y)
+b=int(x)-a*int(y)
+print("You can buy "+str(a)+" chocolete(s) and there are "+str(b)+" yuan left.")
